@@ -33,7 +33,7 @@ To answer factual questions, you don't need to make sentences: e.g., just write 
 Before you begin:
 
 1.  Type your name in the header of the document, in the author field.
-2.   Run the following in the terminal (answer *No* if a message box asks you if you want to close some files):
+2.  Run the following in the terminal (answer *No* if a message box asks you if you want to close some files):
 
 `quarto publish gh-pages index.qmd`
 
@@ -73,6 +73,11 @@ Type your answer below the question.
 
 Your answer here.
 
+> What is the square root of $\pi$?
+
+Your answer here.
+You need a code chunk to answer this question: create it.
+
 # French
 
 Les instructions sont en italique.
@@ -83,3 +88,8 @@ Tapez votre réponse sous la question.
 > Combien font 2 + 2 ?
 
 Votre réponse ici.
+
+> Quelle est la racine carrée de $\pi$ ?
+
+Votre réponse ici.
+Vous devez créer un bout de code pour répondre à cette question.
