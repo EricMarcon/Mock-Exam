@@ -15,7 +15,7 @@ Answer the questions precisely but briefly: the questions are detailed to guide 
 Don't waste your time repeating the course: you have all documents with you, copying their content is not valuable.
 To answer factual questions, you don't need to make sentences: e.g., just write "4." to answer the question "how much are 2 + 2?".
 
-Before you begin, run the following in the terminal:
+Before you begin, run the following in the terminal (answer *No* if a message box asks you if you want to close some files):
 
 `quarto publish gh-pages index.qmd`
 
